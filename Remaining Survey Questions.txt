@@ -1,0 +1,30 @@
+<li class="question" title="Teaching Practice">Students are provided with many opportunities to master skills. </li>
+  <li class="question" title="Teaching Practice">Students work together on tasks. </li>
+  <li class="question" title="Pattern of Communication">Students show their learning by sharing with a partner or a group. </li>
+  <li class="question" title="Pattern of Communication">Students are asked to volunteer answers rather than being asked directly. </li>
+  <li class="question" title="Teaching Practice">I check to see if students grasp ideas before moving on to  the next topic. </li>
+  <li class="question" title="Beliefs">Students are encouraged to seek assistance from others. </li>
+  <li class="question" title="Teaching Practice">Feedback is provided to students as they work on tasks. </li>
+  <li class="question" title="Beliefs">We celebrate our successes as learners. </li>
+  <li class="question" title="Teaching Practice">Students are given repeated opportunity to master skills. </li>
+  <li class="question" title="Teaching Practice">I give students lots of examples to help assist students in their learning. </li>
+  <li class="question" title="Teaching Practice">I get students to work  together and help others on activities and problems. </li>
+  <li class="question" title="Relationships">Students are assisted with their work as they request assistance. </li>
+  <li class="question" title="Teaching Practice">Students receive feedback about their performance as they complete tasks. </li>
+  <li class="question" title="Learning Priorities">Tasks carried out encourage student creativity and independent thinking. </li>
+  <li class="question" title="Teaching Practice">Lessons are paced to allow students time for task completion. </li>
+  <li class="question" title="Relationships">Students are acknowledged by name. </li>
+  <li class="question" title="Pattern of Communication">Responses and involvement are encouraged from quieter students. </li>
+  <li class="question" title="Pattern of Communication">Teacher actively listens to student responses. </li>
+  <li class="question" title="Beliefs">Students' strengths and capabilities are used to support the class's learning. </li>
+  <li class="question" title="Classroom Organization">Teacher includes students' opinions in drawing consensus about matters. </li>
+  <li class="question" title="Teaching Practice">A particular skill or behaviour is modeled for students. </li>
+  <li class="question" title="Content">Local language and culture connections are made explicit in instruction. </li>
+  <li class="question" title="Beliefs">I hold positive views of my students and the community they represent. </li>
+  <li class="question" title="Beliefs">Each of my students has the potential to have learning success. </li>
+  <li class="question" title="Representation">My classroom visually represents and affirms local content. </li>
+  <li class="question" title="Representation">Members of  the community  contribute to learning. </li>
+  <li class="question" title="Representation">Learning focuses on topics specific to events in the community. </li>
+  <li class="question" title="Learning Priorities">The learning in this classroom is beyond academics. </li>
+  <li class="question" title="Learning Priorities">My teaching focuses on the development of culturally located citizens. </li>
+  <li class="question" title="Classroom Organization">The learning environment has clear expectations for student learning. </li>
